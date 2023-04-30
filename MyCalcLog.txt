@@ -1,0 +1,10 @@
+апр. 30, 2023 3:45:05 PM org.example.Control.Controller <init>
+INFO: Меню запущено
+апр. 30, 2023 3:45:08 PM org.example.Control.Controller <init>
+INFO: Выбрано сложение
+апр. 30, 2023 3:45:19 PM org.example.Control.Controller <init>
+INFO: Суммирование успешно
+апр. 30, 2023 3:45:19 PM org.example.Control.Controller <init>
+INFO: Меню запущено
+апр. 30, 2023 3:45:33 PM org.example.Control.Controller <init>
+INFO: Приложение завершено
